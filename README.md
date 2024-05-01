@@ -74,4 +74,3 @@ What are the best (and most efficient) ways for labeling a diverse dataset in ar
 Do you have any recommendations on which architectures might be most effective for this?
 
 For the user interface, I'm planning to use SwiftUI and connect to the model via a Google Drive API. Do you have any advice or resources on best practices for using APIs here?
-![image](https://github.com/umarpatel23/Digital-Da-Vinci/assets/60531022/7b74d0de-a12f-4d2f-bdc3-067b6c46f33f)
